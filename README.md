@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Wahyu Agung Budiyanto</h1>
 <h3 align="center">A student from Klabat University</h3>
 
-- 🌱 I’m currently learning **C#, Javascript, ReactJS, HTML, CSS, MYSQL**
+- 🌱 I’m currently learning **C#, Javascript, ReactJS**
 
 - 📫 How to reach me **budiyanto.wahyuagung@gmail.com**
 
