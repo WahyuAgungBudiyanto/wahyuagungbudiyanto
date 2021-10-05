@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7025
-Fork on GitHub
-1331
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Wahyu Agung Budiyanto</h1>
 <h3 align="center">A student from Klabat University</h3>
 
