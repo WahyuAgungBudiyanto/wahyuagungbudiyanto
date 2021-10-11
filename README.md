@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **budiyanto.wahyuagung@gmail.com**
 
-- ⚡ Fun fact **cinephile**
+- ⚡ Fun fact **-cinephile-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
