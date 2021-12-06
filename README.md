@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Wahyu Agung Budiyanto</h1>
+<div><img src="https://user-images.githubusercontent.com/wahyuagungbudiyanto/a.gif" /></div>
 <h3 align="center">A student from Klabat University</h3>
 
 - 🌱 I’m currently learning **C#, Javascript, ReactJS, Bash**
