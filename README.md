@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Wahyu Agung Budiyanto</h1>
 # Screenshot
-![line](https://github.com/WahyuAgungBudiyanto/wahyuagungbudiyanto/blob/main/a.gif)
+![fruits dashboard](https://github.com/WahyuAgungBudiyanto/wahyuagungbudiyanto/blob/main/a.gif)
 <h3 align="center">A student from Klabat University</h3>
 
 - 🌱 I’m currently learning **C#, Javascript, ReactJS, Bash**
