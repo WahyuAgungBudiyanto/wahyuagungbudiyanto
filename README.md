@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Wahyu Agung Budiyanto</h1>
 <h3 align="center">A student from Klabat University</h3>
 
-- 🌱 I’m currently learning **C#, Javascript, ReactJS, Bash**
 - Repo contains FWD (Front-end Web Development) & VISPRO (Visual Programming) class
 
 <h3 align="left">Connect with me:</h3>
