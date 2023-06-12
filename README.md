@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Wahyu Agung Budiyanto</h1>
-<h3 align="center">A student from Klabat University</h3>
+<h3 align="center">Fresh Graduate from Klabat University, Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
